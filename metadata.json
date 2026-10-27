@@ -1,0 +1,6 @@
+{
+  "name": "Assemblée de Dieu Togo · Adamavo 2",
+  "description": "Portail officiel de l'Église Évangélique des Assemblées de Dieu du Togo (EEADT) · Paroisse d'Adamavo 2 (Temple de la Résurrection) avec le Pasteur AMOUZOU. Histoire depuis 1936, lignée des présidents nationaux et horaires des cultes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
